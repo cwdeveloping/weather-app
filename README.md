@@ -1,1 +1,1 @@
-https://cwdeveloping.github.io/weather-app/
+https://cwdeveloping.github.io/weather-app/index.html
